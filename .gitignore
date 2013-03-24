@@ -1,0 +1,4 @@
+#Use the glob syntax
+syntax: glob
+
+libraries/
